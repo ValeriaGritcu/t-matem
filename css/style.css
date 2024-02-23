@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(255, 228, 243);
+}
+p {
+    border: 2px solid blue;
+    border-left-width: 5px;
+    padding: 5px;
+}
+span {
+    color: rgb(103, 182, 252);
+}
